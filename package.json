@@ -1,0 +1,15 @@
+{
+  "name": "slack-bot",
+  "version": "1.0.0",
+  "description": "Slack chat bot",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Rostislav Boyko",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
